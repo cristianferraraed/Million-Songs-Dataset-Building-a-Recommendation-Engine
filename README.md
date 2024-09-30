@@ -1,6 +1,4 @@
-# Million Songs Dataset - Recommendation Engine
-
-**Complete Video Tutorial:** https://youtu.be/aHdgGnlIewk
+# Million Songs Dataset: Building a Recommendation Engine
 
 # Dataset Information
 
